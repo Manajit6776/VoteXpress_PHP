@@ -67,7 +67,7 @@ VoteXpress isn't just a voting script; it's a visual experience.
 2. **Initialize Database**
    - Access `phpMyAdmin` or your SQL client.
    - Create a database named `votesystem`.
-   - Import the `if0_39681332_votesystem.sql` file provided in the root directory.
+   - Import the `Votexpressdb.sql` file provided in the root directory.
 
 3. **Configure Connection**
    - Edit `db_connect.php` with your local credentials:
@@ -103,10 +103,12 @@ VoteXpress isn't just a voting script; it's a visual experience.
 - **Viewport Guards**: Responsive boundaries to prevent UI breakage on diverse devices.
 
 ---
-
-## 📄 License...
-
----
+## Screen shots:
+![Home page](https://github.com/Manajit6776/VoteXpress_PHP/blob/main/Screenshot%20(295).png)
+![Access Portal](https://github.com/Manajit6776/VoteXpress_PHP/blob/main/Screenshot%20(296).png)
+![Voter Login](https://github.com/Manajit6776/VoteXpress_PHP/blob/main/Screenshot%20(297).png)
+![Admin Login](https://github.com/Manajit6776/VoteXpress_PHP/blob/main/Screenshot%20(298).png)
+![Admin Dashboard](https://github.com/Manajit6776/VoteXpress_PHP/blob/main/Screenshot%20(300).png)
 
 **Developed with ❤️ by the VoteXpress Team.**
 *"Securing every voice, one fragment at a time."*
