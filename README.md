@@ -61,7 +61,7 @@ VoteXpress isn't just a voting script; it's a visual experience.
 ### Setup Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/manaj/VoteXpress_PHP.git
+   git clone [https://github.com/manaj/VoteXpress_PHP.git](https://github.com/Manajit6776/VoteXpress_PHP)
    ```
 
 2. **Initialize Database**
