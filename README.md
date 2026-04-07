@@ -11,7 +11,7 @@
 
 ## 🌐 Live Portal
 Experience the platform in action at the Infinity-free server:
-**[https://votexpress.wuaze.com/index.php](https://votexpress.wuaze.com/index.php)**
+**[https://votexpress.wuaze.com/index.php](https://votexpress.kesug.com)**
 
 ---
 
